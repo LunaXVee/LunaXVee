@@ -2,16 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=8A2BE2&vCenter=true&width=490&lines=Hi%2C+I'm+LunaXVee+%F0%9F%87%BF%F0%9F%87%B9+%7C" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/African%20Women%20In%20Tech-%23FFD700?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Crochet-Plushies-ff69b4?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Open%20Source-Lover-brightgreen?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Hackathons-Enthusiast-purple?style=for-the-badge">
-</p>
-
 ---
 
-# Hi, I'm LunaXVee 👋
+# Hey there, I'm LunaXVee 👋
 
 **Computer Science Student @ Africa University**  
 🌍 Obsessed about AI & bridging educational gaps in Africa  
@@ -70,11 +63,5 @@ A Anime movie streaming site, to watch all your favourite anime and animated mov
 - Crochet plushies in my free time 🧸
 - Stranded on an island, I'd only need an unlimited stash of oranges
 
----
-
-## 📊 GitHub Stats
-
-![LunaXVee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LunaXVee&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LunaXVee&layout=compact&theme=gruvbox)
 
 
