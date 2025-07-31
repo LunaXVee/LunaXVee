@@ -14,18 +14,16 @@
 # Hi, I'm LunaXVee 👋
 
 **Computer Science Student @ Africa University**  
-🌍 Passionate about AI & bridging educational gaps in Africa  
+🌍 Obsessed about AI & bridging educational gaps in Africa  
 #AfricanWomenInTech
 
 ---
 
 ## 👩‍💻 About Me
 
-- Science student & developer obsessed with AI integration.
 - Exploring ways to use technology to solve real African challenges.
 - Advocate for simple solutions with massive impact.
-- I love building web and mobile apps that make a difference.
-- When not immersed in tech, I crochet plushies 🧸!
+- I love building responsive, accessible & beautiful web and mobile apps that make a difference.
 
 ---
 
@@ -38,7 +36,7 @@ Interactive 3D web experiences using Spline.
 - **Tech:** JavaScript, CSS, HTML, Spline
 
 ### [BabyShark-App](https://github.com/LunaXVee/BabyShark-App)
-A personalized Netflix clone for streaming movies.  
+A Anime movie streaming site, to watch all your favourite anime and animated movies. 
 > Entertainment for everyone, built with love!
 
 - **Tech:** JavaScript, CSS, HTML
@@ -70,8 +68,7 @@ A personalized Netflix clone for streaming movies.
 
 - AI, EdTech, Web & Mobile Development, 3D Design, Community Impact
 - Crochet plushies in my free time 🧸
-- Favorite emoji: 🤓
-- Always up for a hackathon or a tech meetup!
+- Stranded on an island, I'd only need an unlimited stash of oranges
 
 ---
 
