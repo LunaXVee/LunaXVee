@@ -1,6 +1,6 @@
 # Hey there, I'm LunaXVee 👋
 
-**Computer Science Student @ Africa University**  
+**Computer Science Grad @ Africa University**  
 🌍 Obsessed about AI & bridging educational gaps in Africa  
 #AfricanWomenInTech
 
